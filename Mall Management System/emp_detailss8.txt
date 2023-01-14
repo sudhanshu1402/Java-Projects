@@ -1,0 +1,9 @@
+name
+age 
+salary
+Ajay Penkar
+29
+60000
+Kavish Kohli
+28
+60000

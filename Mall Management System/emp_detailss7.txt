@@ -1,0 +1,9 @@
+name
+age 
+salary
+Rajveer Thakur
+30
+90000
+Sumit Saxena
+31
+60000

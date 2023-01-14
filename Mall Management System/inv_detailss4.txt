@@ -1,0 +1,9 @@
+inv_no
+inv_name
+inv_quantity
+1
+Adidas_chelsea
+2
+2
+Climacool
+3

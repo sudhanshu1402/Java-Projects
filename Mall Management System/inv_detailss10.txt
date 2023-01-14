@@ -1,0 +1,9 @@
+inv_no
+inv_name
+inv_quantity
+1
+Thanos gauntlet
+8
+2
+Frozen toys
+7

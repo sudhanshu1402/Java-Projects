@@ -1,0 +1,9 @@
+name
+age 
+salary
+Siddhesh Lad
+33
+84000
+Prakash Jadhav
+30
+78000

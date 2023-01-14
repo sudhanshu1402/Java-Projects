@@ -1,0 +1,9 @@
+name
+age 
+salary
+Rohit Pancholi
+32
+45000
+Ram Singh
+31
+80000

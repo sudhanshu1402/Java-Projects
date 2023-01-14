@@ -1,0 +1,9 @@
+name
+age 
+salary
+Ishwar V
+27
+77000
+Balvant Singh
+33
+80000

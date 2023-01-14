@@ -1,0 +1,9 @@
+inv_no
+inv_name
+inv_quantity
+1
+SF shirt
+6
+2
+Urbania wear
+7

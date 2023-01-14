@@ -1,0 +1,9 @@
+name
+age 
+salary
+Ramesh Fadnavis
+29
+90000
+Deepak Sharma
+28
+75000

@@ -1,0 +1,9 @@
+name
+age 
+salary
+Robin Sharma
+36
+55000
+Gopal Singh
+28
+60000

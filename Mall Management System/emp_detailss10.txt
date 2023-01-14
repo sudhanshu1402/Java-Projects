@@ -1,0 +1,9 @@
+name
+age 
+salary
+Vishal Nair
+27
+89000
+Ashmit Jain
+29
+88000

@@ -1,0 +1,9 @@
+name
+age 
+salary
+Prithvi Nathu
+31
+94000
+Manav Shah
+30
+78000

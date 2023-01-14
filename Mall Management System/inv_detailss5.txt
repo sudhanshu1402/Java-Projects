@@ -1,0 +1,9 @@
+inv_no
+inv_name
+inv_quantity
+1
+Puma one8
+4
+2
+Puma Zigtech
+3

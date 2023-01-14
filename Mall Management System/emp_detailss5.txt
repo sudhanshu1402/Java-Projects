@@ -1,0 +1,8 @@
+name
+age 
+salary
+Arvind Sethi
+33
+71000
+Dinu Sharma
+88000

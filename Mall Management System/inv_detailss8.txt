@@ -1,0 +1,9 @@
+inv_no
+inv_name
+inv_quantity
+1
+Auriela
+4
+2
+Wills
+8

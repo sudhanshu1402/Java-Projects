@@ -1,0 +1,9 @@
+inv_no
+inv_name
+inv_quantity
+1
+Nike Hypervenom
+13
+2
+Nike Revolution 3
+33
