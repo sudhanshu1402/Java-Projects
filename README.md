@@ -1,5 +1,5 @@
-# Object Oriented Programming
+# JAVA PROJECTS
 
-This repository contains a collection of Object Oriented Programming Projects
+This repository contains a collection of Java Projects
 - Mall Management System
 - Online Quiz System
